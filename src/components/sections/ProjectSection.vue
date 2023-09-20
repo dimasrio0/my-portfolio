@@ -74,7 +74,7 @@
         <div class="border p-2 border-t-0 h-[190px]">
           <h1 class="text-xl text-white mb-2">Sumrezmmo</h1>
           <p class="text-[#ABB2BF] text-sm">
-            Trideka is an application that serves as a company profile for a national architecture firm. It provides a comprehensive overview of our firm's expertise, portfolio, and achievements in the field of architecture.
+            Sumrezmmo is an e-commerce platform dedicated to gaming, offering a wide range of services including game top-ups and in-game item transactions. We provide a convenient and secure marketplace for gamers to enhance their gaming experience.
           </p>
         </div>
       </div>
